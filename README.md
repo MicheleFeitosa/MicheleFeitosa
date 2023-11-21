@@ -5,6 +5,8 @@
 - 💬 Me pergunte sobre **html, css e javascript.**
 
 - 📫 Como me encontrar: **michelefeitosa08@gmail.com**
+  
+- Atualmente estudando Java em um projeto com a Laboratória:https://github.com/MicheleFeitosa/UPSK-JAVA-002-guess-the-number 
 
 - <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
