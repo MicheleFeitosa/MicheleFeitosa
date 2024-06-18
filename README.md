@@ -6,7 +6,7 @@
 
 - 📫 Como me encontrar: **michelefeitosa08@gmail.com**
   
-- Atualmente estudando Java em um projeto com a Laboratória onde estou construindo uma API REST: https://github.com/MicheleFeitosa/UPSK-JAVA-002-fleet-management-api 
+- Atualmente estudando Java através da formação da T6-One da Oracle e também estou estudando python com foco na análise de dados ;)
 
 - <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
