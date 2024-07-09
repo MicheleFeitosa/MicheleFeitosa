@@ -6,7 +6,6 @@
 
 - 📫 Como me encontrar: **michelefeitosa08@gmail.com**
   
-- Atualmente estudando Java através da formação da T6-One da Oracle e também estou estudando python com foco na análise de dados ;)
 
 - <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
