@@ -5,6 +5,8 @@
 - 💬 Me pergunte sobre **html, css e javascript.**
 
 - 📫 Como me encontrar: **michelefeitosa08@gmail.com**
+
+- Atualmente estou cursando o bootcamp de Data Analytics da WomakersCode e o She Upskilling de Salesforce na Laboratória. 
   
 
 - <h3 align="left">Conecte-se comigo:</h3>
